@@ -21,8 +21,6 @@
 
         # var split = Awair.split('"');
 
-2.1 result
-
         var split ={
         "data":[{"timestamp":"2019-10-30T07:11:45.226Z","score":85.0,"sensors":[{"comp":"temp","value":22.469999313354492},{"comp":"humid","value":47.38999938964844},{"comp":"co2","value":1519.0},{"comp":"voc","value":350.0},{"comp":"pm25","value":3.0}],"indices":[{"comp":"temp","value":0.0},{"comp":"humid","value":0.0},{"comp":"co2","value":3.0},{"comp":"voc","value":1.0},{"comp":"pm25","value":0.0}]}]
         }
